@@ -1,5 +1,4 @@
-# RocketChat-Discord
-## Rocket.Chat integration
+# Rocket.Chat integration
 ![rocketchat discord](https://raw.githubusercontent.com/zakery1369/pics/master/RocketChat-Discord.png)
 
 <!--truncate-->
